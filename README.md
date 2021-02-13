@@ -1,8 +1,8 @@
-## Bem-vindo à disciplina **BANCO DE DADOS**, oferta 2020/2 - [Ciência da Computação]
+## Bem-vindo à disciplina **BANCO DE DADOS**, oferta 2020/2 - [Engenharia de Software]
 
-O plano da disciplina está disponível [aqui](./media/bcc-bd-2020-2-plano.pdf).<br>
+O plano da disciplina está disponível [aqui](./media/bes-bd-2020-2-plano.pdf).<br>
 Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf).<br>
-Os momentos síncronos ocorrerão na sala [https://meet.google.com/tcz-ntej-xad](https://meet.google.com/tcz-ntej-xad), 16h00-16h50, segunda-feira e quinta-feira.
+Os momentos síncronos ocorrerão na sala [https://meet.google.com/jbr-ftaf-iix](https://meet.google.com/jbr-ftaf-iix), 18h50-20h20, segunda-feira.
 
 ### Tópicos recentes
 
