@@ -1,7 +1,7 @@
 ### [Tópico T01] - Ambientação com a disciplina (objetivos e metodologia)
 
-Assista à apresentação da disciplina ([aqui](https://drive.google.com/file/d/1bpyDU0dZrv7HA9qjahFRtB2PAQvlKKQV/view?usp=sharing)).<br>
-Leia o [plano](../media/bcc-bd-2020-2-plano.pdf).<br>
+Assista à apresentação da disciplina ([aqui](https://drive.google.com/file/d/1AvW23Mgpetd_YZI5L27pCCb--GEv0xTz/view?usp=sharing)).<br>
+Leia o [plano](../media/bes-bd-2020-2-plano.pdf).<br>
 Esclareça suas dúvidas.<br>
 
 ### Atividade (data limite: **03/03/2021 23h59min59s**)
